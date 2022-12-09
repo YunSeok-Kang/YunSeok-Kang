@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm interested in lowering the production cost of games and videos.
 
 S/W Developer @ROKAF(~2022)  
 Game Developer @Voxellers(~2020)
