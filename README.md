@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-S/W Developer @ROKAF(~2022)
+
+S/W Developer @ROKAF(~2022)  
 Game Developer @Voxellers(~2020)
 
-GlGDC 2020🥉
-National Excellence Scholarship
+
+GlGDC 2020🥉  
+National Excellence Scholarship (Natural Sciences and Engineering)
 
 <!--
 **YunSeok-Kang/YunSeok-Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
