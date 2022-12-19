@@ -1,6 +1,12 @@
 ### Hi there 👋
 I'm interested in lowering the production cost of games and videos.
 
+![1](https://user-images.githubusercontent.com/16894765/208342058-c10912b9-e95a-4c09-9d09-a7c380dfa03f.gif)
+![2](https://user-images.githubusercontent.com/16894765/208342064-96f63b3e-124c-447a-b0ed-2479f67f5854.gif)
+![3](https://user-images.githubusercontent.com/16894765/208342069-9572e7c1-225a-41b5-b456-6087dac62cab.gif)
+![4](https://user-images.githubusercontent.com/16894765/208342072-a889a1e4-8455-4f3f-bc1d-81e87ea944ad.gif)
+
+
 S/W Developer @ROKAF(~2022)  
 Game Developer @Voxellers(~2020)
 
